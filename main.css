@@ -1,0 +1,36 @@
+body {
+  background-color: lavender;
+  background-image: url('Black.png');
+  max-width: 100%;
+  height: auto;
+
+}
+
+.nav-item:hover{
+    text-decoration: underline;
+}
+
+.btn { 
+        cursor: pointer; 
+        border: 1px solid peachpuff; 
+        background-color: transparent; 
+        height: 50px; 
+        width: 200px; 
+        color: peachpuff; 
+        font-size: 1.5em; 
+        box-shadow: 0 6px 6px rgba(0, 0, 0, 0.6); 
+    } 
+
+    h3 {
+      font-family: 'CagliostroRegular';
+      font-weight: normal;
+      font-style: normal;
+      font-style: 32px;
+   }
+   .dropdown-item{
+    cursor: pointer; 
+    height: 40px; 
+    width: 200px; 
+    color:brown; 
+    font-size: 1em; }
+

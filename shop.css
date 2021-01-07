@@ -1,0 +1,12 @@
+body{
+    background-color:white;
+}
+#card img:hover{
+    transform: scale(1.5);
+}
+h3 {
+    font-family: 'CagliostroRegular';
+    font-weight: normal;
+    font-style: normal;
+    font-style: 32px;
+ }
